@@ -71,5 +71,6 @@ jobs:
         with:
           app-name: 'portfoliohubazure'
           slot-name: 'Production'
-          package: .
-          
+          package: Portfolio
+
+     
